@@ -1,1 +1,2 @@
-# hw_1
+This is the Horiseon site explaining their services. Some updates have been made in order to simplify some redundant css code lines. 
+Some of the header stylings were also fixed and the links were also corrected to ensure that they work properly. 
